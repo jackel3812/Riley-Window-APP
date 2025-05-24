@@ -1,0 +1,20 @@
+api_key: "YOUR_API_KEY_HERE"
+voice:
+  default: "Jenny"
+  speed: 1.0
+  pitch: 1.0
+  volume: 1.0
+wake_word: "Hey Riley"
+memory:
+  short_term: true
+  long_term: false
+  max_memory_size: 1000
+modes:
+  default: "Standard Chat Mode"
+  available: 
+    - "Standard Chat Mode"
+    - "Inventor Mode"
+    - "Emotional Support Mode"
+    - "Scientific Reasoning Mode"
+    - "Coding Assistant Mode"
+    - "Autonomous Mode"

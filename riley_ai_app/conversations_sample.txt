@@ -1,0 +1,11 @@
+Hello	Hi there! How can I help you today?
+What is the color of the sun?	The sun appears white from space, but from Earth it often looks yellow due to the atmosphere. Its true color is close to white, as it emits all visible wavelengths.
+What is the capital of France?	The capital of France is Paris.
+How do I make a cup of tea?	To make a cup of tea, boil water, pour it over a tea bag or leaves, steep for a few minutes, then remove the tea and enjoy.
+Who is Albert Einstein?	Albert Einstein was a theoretical physicist known for developing the theory of relativity.
+What is 2+2?	2+2 equals 4.
+Tell me a joke.	Why did the computer go to the doctor? Because it had a virus!
+What is the meaning of life?	The meaning of life is a philosophical question, but many say it's to seek happiness, knowledge, and connection.
+How do I code in Python?	To code in Python, install Python, write your code in a .py file, and run it using the python command.
+What is AI?	AI stands for Artificial Intelligence, which is the simulation of human intelligence by machines.
+Goodbye	Goodbye! Have a wonderful day!

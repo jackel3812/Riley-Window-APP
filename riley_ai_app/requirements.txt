@@ -1,0 +1,9 @@
+pyqt6
+openai
+speechrecognition
+pyttsx3
+gitpython
+requests
+pysqlite3
+PyYAML
+tqdm

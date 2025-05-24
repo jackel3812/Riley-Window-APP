@@ -1,0 +1,200 @@
+/* Glassmorphic, blue HUD/forest theme for Riley-AI */
+
+QMainWindow,
+QWidget#SidebarWidget {
+    background: rgba(160, 111, 38, 0.65);
+    border-radius: 561px;
+    border: 1.5px solid rgba(80, 180, 255, 0.25);
+    box-shadow: 0 8px 10px 0 rgba(169, 173, 125, 0.25);
+    backdrop-filter: blur(18px);
+}
+
+QScrollArea {
+    background: transparent;
+    border: none;
+}
+
+QLabel#SidebarTitle {
+    color: #aee6ff;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 18px;
+    text-shadow: 0 2px 12px #1e90ff;
+}
+
+QPushButton#SidebarButton {
+    background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 #1e3c72, stop: 1 #2a5298);
+    color: #e0f7fa;
+    border: 1.5px solid rgba(80, 180, 255, 0.18);
+    border-radius: 12px;
+    font-size: 1.01rem;
+    font-weight: 500;
+    padding: 7px 0;
+    margin-bottom: 2px;
+    transition: all 0.2s;
+}
+
+QPushButton#SidebarButton:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 #2193b0, stop: 1 #6dd5ed);
+    color: #fff;
+    border: 1.5px solid #40cfff;
+    box-shadow: 0 0 8px #40cfff;
+}
+
+QPushButton#SidebarButton:pressed {
+    background: rgb(180, 154, 36);
+    color: #aee6ff;
+}
+
+QWidget#SidebarWidget {
+    min-width: 250px;
+    max-width: 200px;
+}
+
+QWidget {
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    font-size: 1.08rem;
+    color: #e0f7fa;
+}
+
+QTextEdit#ChatDisplay {
+    background: rgba(14, 28, 53, 0.82);
+    border-radius: 18px;
+    border: 1.5px solid rgba(255, 187, 0, 0.18);
+    color: #e0f7fa;
+    font-size: 1.13rem;
+    font-weight: 500;
+    padding: 18px 18px 18px 18px;
+    margin-bottom: 12px;
+    box-shadow: 0 4px 4px 0 rgba(31, 38, 135, 0.12);
+    min-height: 320px;
+    max-width: 1800px;
+    width: 100%;
+    height: 480px;
+}
+
+QLineEdit#InputBox {
+    background: rgba(30, 60, 100, 0.85);
+    border-radius: 12px;
+    border: 1.5px solid #6dd5ed;
+    color: #e0f7fa;
+    font-size: 1.08rem;
+    padding: 12px 16px;
+    margin-right: 32px;
+}
+
+QLineEdit#InputBox:focus {
+    border: 2px solid #6dd5ed;
+    background: rgba(30, 60, 100, 0.95);
+}
+
+QPushButton#SendButton {
+    background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 #40cfff, stop: 1 #2193b0);
+    color: #fff;
+    border: 1.5px solid #40cfff;
+    border-radius: 12px;
+    font-size: 1.08rem;
+    font-weight: 700;
+    padding: 10px 24px;
+    margin-left: 4px;
+    transition: all 0.2s;
+}
+
+QPushButton#SendButton:hover {
+    background: qlineargradient(x1: 0, y1: 0, x2: 1, y2: 1, stop: 0 #6dd5ed, stop: 1 #40cfff);
+    color: #1e3c72;
+    border: 2px solid #6dd5ed;
+    box-shadow: 0 0 8px #40cfff;
+}
+
+QPushButton#SendButton:pressed {
+    background: #1e3c72;
+    color: #aee6ff;
+}
+
+
+/* Scrollbar styling for sidebar and chat */
+
+QScrollBar:vertical {
+    background: transparent;
+    width: 10px;
+    margin: 8px 2px 8px 2px;
+    border-radius: 6px;
+}
+
+QScrollBar::handle:vertical {
+    background: #40cfff;
+    min-height: 24px;
+    border-radius: 6px;
+}
+
+QScrollBar::add-line:vertical,
+QScrollBar::sub-line:vertical {
+    background: none;
+    height: 0px;
+}
+
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {
+    background: none;
+}
+
+
+/* General improvements for clarity and glassmorphism */
+
+QWidget,
+QMainWindow {
+    background: transparent;
+}
+
+
+/* Remove focus outline for buttons */
+
+QPushButton:focus {
+    outline: none;
+}
+
+
+/* Fade-in animation for elements */
+
+.fadeIn {
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+
+/* Pulse ring animation for glowing effects */
+
+.pulse-ring {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    animation: pulse 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.8);
+        opacity: 0.8;
+    }
+    50% {
+        transform: scale(1.1);
+        opacity: 0.5;
+    }
+    100% {
+        transform: scale(0.8);
+        opacity: 0.8;
+    }
+}

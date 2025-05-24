@@ -1,0 +1,357 @@
+# Riley-AI Knowledge Base: Major Domains and Subfields
+
+Physics:
+  Classical Mechanics:
+    - Newtonian motion
+    - Forces
+    - Energy
+    - Momentum
+  Electromagnetism:
+    - Maxwell’s equations
+    - Fields
+    - Waves
+  Thermodynamics:
+    - Laws
+    - Heat
+    - Entropy
+    - Energy transfer
+  Quantum Mechanics:
+    - Wave-particle duality
+    - Schrödinger equation
+    - Quantum states
+  Relativity:
+    - Special relativity
+    - General relativity
+    - Spacetime
+    - Gravity
+  Fluid Dynamics:
+    - Flow
+    - Turbulence
+    - Navier-Stokes equations
+  Magneto-Hydrodynamics:
+    - MHD
+    - Plasma physics
+    - Magnetic fields with conductive fluids
+  Particle Physics:
+    - Standard model
+    - Quarks
+    - Leptons
+    - Forces
+  Condensed Matter Physics:
+    - Solids
+    - Semiconductors
+    - Superconductivity
+  Astrophysics & Cosmology:
+    - Stars
+    - Galaxies
+    - Black holes
+    - Big Bang theory
+
+Mathematics:
+  Arithmetic and Number Theory:
+    - Integers
+    - Primes
+    - Modular arithmetic
+  Algebra:
+    - Equations
+    - Polynomials
+    - Groups
+    - Rings
+  Geometry:
+    - Euclidean
+    - Non-Euclidean
+    - Analytic geometry
+  Trigonometry:
+    - Angles
+    - Sine/cosine
+    - Periodic functions
+  Calculus:
+    - Limits
+    - Derivatives
+    - Integrals
+    - Differential equations
+  Linear Algebra:
+    - Vectors
+    - Matrices
+    - Eigenvalues
+  Probability and Statistics:
+    - Distributions
+    - Inference
+    - Data analysis
+  Discrete Mathematics:
+    - Graphs
+    - Combinatorics
+    - Logic
+  Mathematical Logic and Set Theory:
+    - Proofs
+    - Foundations of mathematics
+  Numerical Methods:
+    - Approximation
+    - Error analysis
+
+Chemistry:
+  Atomic Structure and Periodic Table: []
+  Chemical Bonding and Molecular Geometry: []
+  Thermochemistry and Chemical Reactions: []
+  Organic Chemistry:
+    - Carbon compounds
+    - Reaction mechanisms
+  Inorganic Chemistry:
+    - Metals
+    - Minerals
+    - Coordination compounds
+  Analytical Chemistry:
+    - Spectroscopy
+    - Chromatography
+  Physical Chemistry:
+    - Quantum chemistry
+    - Kinetics
+    - Equilibrium
+  Biochemistry:
+    - Proteins
+    - Enzymes
+    - Metabolism
+  Environmental Chemistry:
+    - Pollutants
+    - Green chemistry
+
+Biology:
+  Cell Biology:
+    - Structure
+    - Organelles
+    - Cellular processes
+  Genetics:
+    - DNA
+    - Inheritance
+    - Gene expression
+  Evolution and Natural Selection: []
+  Physiology:
+    - Organ systems
+    - Homeostasis
+  Microbiology:
+    - Bacteria
+    - Viruses
+    - Immune response
+  Ecology:
+    - Ecosystems
+    - Biodiversity
+    - Conservation
+  Molecular Biology:
+    - Protein synthesis
+    - Signaling pathways
+  Neuroscience:
+    - Brain
+    - Neurons
+    - Cognition
+  Developmental Biology:
+    - Growth
+    - Differentiation
+  Biotechnology:
+    - Genetic engineering
+    - CRISPR
+
+Computer Science:
+  Algorithms and Data Structures: []
+  Programming Languages:
+    - Syntax
+    - Paradigms
+  Software Engineering:
+    - Design patterns
+    - Testing
+  Operating Systems:
+    - Process management
+    - Memory
+  Databases:
+    - SQL
+    - NoSQL
+    - Data modeling
+  Artificial Intelligence and Machine Learning:
+    - Models
+    - Training
+    - Inference
+  Networking:
+    - Protocols
+    - TCP/IP
+    - Security
+  Cybersecurity:
+    - Encryption
+    - Vulnerabilities
+  Human-Computer Interaction:
+    - UI/UX
+  Distributed Systems and Cloud Computing: []
+
+Engineering:
+  Electrical Engineering:
+    - Circuits
+    - Signals
+    - Power systems
+  Mechanical Engineering:
+    - Dynamics
+    - Materials
+    - Thermodynamics
+  Civil Engineering:
+    - Structures
+    - Hydraulics
+    - Geotechnics
+  Chemical Engineering:
+    - Process design
+    - Reaction engineering
+  Aerospace Engineering:
+    - Flight dynamics
+    - Propulsion
+  Materials Science:
+    - Metals
+    - Polymers
+    - Composites
+  Control Systems:
+    - Feedback loops
+    - Automation
+  Robotics:
+    - Sensors
+    - Actuators
+    - Kinematics
+  Environmental Engineering:
+    - Pollution control
+    - Sustainability
+  Systems Engineering:
+    - Integration
+    - Optimization
+
+Social Sciences:
+  Psychology:
+    - Behavior
+    - Cognition
+    - Development
+  Sociology:
+    - Social structures
+    - Groups
+    - Institutions
+  Anthropology:
+    - Culture
+    - Human evolution
+  Political Science:
+    - Government
+    - Policy
+    - International relations
+  Economics:
+    - Markets
+    - Micro/macro
+    - Game theory
+  History:
+    - Chronological events
+    - Civilizations
+  Linguistics:
+    - Syntax
+    - Semantics
+    - Phonetics
+  Human Geography:
+    - Population
+    - Urbanization
+  Education Theory:
+    - Pedagogy
+    - Learning methods
+  Law and Ethics:
+    - Legal systems
+    - Moral philosophy
+
+Humanities:
+  Philosophy:
+    - Metaphysics
+    - Epistemology
+    - Ethics
+  Literature:
+    - Genres
+    - Analysis
+    - History
+  Art and Art History:
+    - Styles
+    - Techniques
+    - Movements
+  Religion and Theology:
+    - Belief systems
+    - Rituals
+  Music Theory:
+    - Harmony
+    - Rhythm
+    - Composition
+  Cultural Studies:
+    - Identity
+    - Media
+    - Discourse
+  Classics:
+    - Ancient texts
+    - Archaeology
+  Languages:
+    - Grammar
+    - Vocabulary
+    - Language families
+  Communication Studies:
+    - Rhetoric
+    - Media
+  Creative Writing:
+    - Narrative
+    - Poetry
+
+Business and Management:
+  Marketing:
+    - Branding
+    - Consumer behavior
+  Finance:
+    - Accounting
+    - Investment
+    - Risk management
+  Organizational Behavior:
+    - Leadership
+    - Culture
+  Operations Management:
+    - Supply chain
+    - Quality control
+  Entrepreneurship:
+    - Startups
+    - Innovation
+  Strategy:
+    - Competitive analysis
+    - Planning
+  Human Resources:
+    - Recruitment
+    - Labor law
+  Project Management:
+    - Agile
+    - Waterfall
+  Economics:
+    - Market structures
+    - Economic policy
+  Business Ethics and Corporate Governance: []
+
+Health Sciences:
+  Medicine:
+    - Pathology
+    - Diagnostics
+    - Treatment
+  Pharmacology:
+    - Drug mechanisms
+    - Toxicology
+  Public Health:
+    - Epidemiology
+    - Health policy
+  Nutrition:
+    - Diet
+    - Metabolism
+  Nursing:
+    - Care practices
+    - Patient safety
+  Physical Therapy:
+    - Rehabilitation
+    - Kinesiology
+  Dentistry:
+    - Oral health
+    - Procedures
+  Mental Health:
+    - Psychopathology
+    - Therapy
+  Genetics:
+    - Hereditary diseases
+    - Counseling
+  Biomedical Engineering:
+    - Prosthetics
+    - Medical devices
